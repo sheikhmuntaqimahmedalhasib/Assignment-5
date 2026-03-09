@@ -45,7 +45,7 @@ label{
 
 input[type="text"],
 input[type="password"]{
-    width:100%;
+    width:94%;
     padding:10px;
     margin:8px 0;
     border-radius:5px;
@@ -83,8 +83,14 @@ button:hover{
     background:#8e0000;
 }
 
+.divider{
+    margin-top:20px;
+    margin-bottom:20px;
+    color:#aaaaaa;
+    font-size:14px;
+}
+
 .demo{
     font-size:14px;
-    margin-top:15px;
     color:#555;
 }
